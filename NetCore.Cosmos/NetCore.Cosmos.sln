@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Cosmos", "NetCore.Cosmos\NetCore.Cosmos.csproj", "{0F8207D4-1D82-4A25-9A65-04AD86D78147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8207D4-1D82-4A25-9A65-04AD86D78147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8207D4-1D82-4A25-9A65-04AD86D78147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8207D4-1D82-4A25-9A65-04AD86D78147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8207D4-1D82-4A25-9A65-04AD86D78147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068DEF5E-7DE9-46EB-B7B0-C3B666FA5E0D}
+	EndGlobalSection
+EndGlobal
